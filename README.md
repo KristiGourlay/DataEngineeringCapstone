@@ -49,7 +49,7 @@ The final schema is a star schema. I chose this data model because it provides m
 
 
 <p align="center">
-<img src='static/images/capstonediagram.jpg' width=600 height=500 alt='capstone_diagram'>
+<img src='static/images/capstonediagram.jpg' width=600 height=500 alt='capstonediagram'>
 </p>
 
 
